@@ -1,14 +1,14 @@
 # CVNN_Basic_Image_Processing
 Basic Image processing tasks using CVNN
 
-1-Image classification example using CVNN
+1- Image classification example using CVNN
 
     Image dataset is CIFAR10, real-valued data is transformed to complex domain using Hilbert transform
 
 
 
 
-2-mage Super-resolution example using CVNN
+2- Image Super-resolution example using CVNN
     Python re-implementation of SRCNN model using CVNN  repository: 
         https://github.com/NEGU93/cvnn
         
