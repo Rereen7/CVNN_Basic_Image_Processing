@@ -7,8 +7,10 @@ Basic Image processing tasks using CVNN
 
 
 2-mage Super-resolution example using CVNN
-    Python re-implementation of SRCNN model using CVNN  repository:https://github.com/NEGU93/cvnn
-    Cited from SCRNN real-valued implementation: https://github.com/MarkPrecursor/SRCNN-keras
+    Python re-implementation of SRCNN model using CVNN  repository: 
+        https://github.com/NEGU93/cvnn
+    Cited from SCRNN real-valued implementation:
+        https://github.com/MarkPrecursor/SRCNN-keras
 
     Image dataset is T91:  https://www.kaggle.com/datasets/ll01dm/t91-image-dataset
     real-valued data is transformed to complex domain using Hilbert transform
