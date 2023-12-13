@@ -3,7 +3,9 @@ Basic Image processing tasks using CVNN
 
 1-Image classification example using CVNN
 
-  Image dataset is CIFAR10, real-valued data is transformed to complex domain using Hilbert transform
+    Image dataset is CIFAR10, real-valued data is transformed to complex domain using Hilbert transform
+
+
 
 
 2-mage Super-resolution example using CVNN
