@@ -1,4 +1,4 @@
-# CVNN_Basic_Image_Processing
+# Image Processing using Complex-valued Neural Networks (CVNN)
 Basic Image processing tasks using CVNN
 
 1- Image classification example using CVNN
